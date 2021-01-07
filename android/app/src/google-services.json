@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428635420260",
+    "project_id": "planneryandex",
+    "storage_bucket": "planneryandex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428635420260:android:90f3367b84d086e02e1171",
+        "android_client_info": {
+          "package_name": "com.example.todo_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428635420260-6sa3o32noaer2h10iouen9977nd9qith.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSaZaLSGp4vBOEfmga6-FJ8P4QnAxkMRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428635420260-6sa3o32noaer2h10iouen9977nd9qith.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

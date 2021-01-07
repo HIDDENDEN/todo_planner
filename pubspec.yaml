@@ -1,0 +1,37 @@
+name: todo_planner
+description: A new Flutter application.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  cloud_firestore:
+  firebase_core :
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.0
+  google_fonts: ^1.1.1
+
+  sqflite:
+  path:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
